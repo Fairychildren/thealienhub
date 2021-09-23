@@ -1,0 +1,9 @@
+body {background-color: #BD33FF;}
+h1 {color: #11B627; font-family: arial; font-size: 40px;}
+p {color:#33B544; font-family: arial; font-size: 20px}
+img {margin-left: 200px;border-color: red; border-width: 20px; border-style:dotted;}
+ul {color: #33B544;}
+a {color: #33B544; text-decoration-color: none}
+a:hover {color: purple; text-decoration: underline;}
+
+
